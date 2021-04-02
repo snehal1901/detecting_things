@@ -11,6 +11,10 @@ All that is needed is to provide the path of said input within the object_detect
 * Opencv2
 * YOLO weights (config) 
 
+## EXAMPLE:
+![Screenshot 2](/02.png)
+
 #### Python Version: 3.8.0
 
 
+ 
